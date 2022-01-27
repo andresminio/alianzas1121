@@ -1,13 +1,16 @@
 #Alianzas Argentina 2011-2021  
+#Cargar libraries
+library(tidyverse)
+library(arm) 
+library(ergm)
+library(statnet)
+library(foreign)
+library(igraph)
 
-*instalar packages 
-install.packages("arm") 
-install.packages("ergm")
-install.packages("statnet")
-install.packages("foreign")
-install.packages("igraph")
+Data1<-read_csv(".csv")
 
-T <- Data1[,7:48]
+
+T <- Data1[,1:53]
 T<- as.matrix(T)
 Tt<-t(T)%*%T
 
