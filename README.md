@@ -1,2 +1,1 @@
-# alianzas1121
-Mapa de alianzas partidarias nacionales 2011 2021 
+Mapa de redes partidarias nacionales 2011 2021 
