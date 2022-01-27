@@ -1,5 +1,8 @@
 **Mapa de redes partidarias nacionales 2011 2021**
 
+Cómo citar: 
+*Miño, J.A. 2022.Mapa de redes partidarias nacionales 2011-2021 . Repositorio de GitHub, https://github.com/andresminio/redespartidarias1121* 
+
 Las alianzas electorales son una buena fuente de información sobre la afinidad y antagonismo entre los partidos políticos. A partir de la coordinación electoral, las agrupaciones políticas revelan su proximidad o diferenciación con otros actores, lo que permite obtener una imagen de la organización del sistema de partidos. 
 En este proyecto evaluamos, a través del análisis de redes, el modo en que los partidos políticos nacionales de Argentina interactuaron en las 6 elecciones legislativas que se sucedieron entre  2011 y 2021, es decir, desde la implementación de las Primarias Abiertas, Simultáneas y Obligatorias (PASO).
 Para construir el mapa de redes partidarias, se adapta la metodología utilizada por Fowler (2006) y Aleman, et. al. (2009), utilizada originalmente en investigaciones del comportamiento legislativo para estimar las posiciones de los legisladores en el congreso a partir del copatrocinio de proyectos (cosponsorship).
